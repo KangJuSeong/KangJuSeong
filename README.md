@@ -1,5 +1,5 @@
 # 강주성 (KangJuSeong)
 
-* Backend Engineer, Data Analyst
+Backend Engineer, Data Analyst
 
-* Django, Tensorflow, Crawling, Python 
+Django, Tensorflow, Crawling, Python 
