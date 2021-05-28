@@ -3,6 +3,7 @@
 Backend Engineer, Data Analyst
 
 Django, Tensorflow, Crawling, Python 
+<br>
 
 🏆Prize
 - 24th FIRA RoboWorld Cup Hurocup kid basketball second prize
