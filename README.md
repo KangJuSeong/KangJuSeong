@@ -19,3 +19,4 @@ Backend Engineer, Data Analyst
 - Django
 - JavaScript
 - ReactNative
+- express.js
