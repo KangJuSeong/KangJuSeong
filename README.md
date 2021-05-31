@@ -15,7 +15,7 @@ Backend Engineer, Data Analyst
 
 🔨Languages and Tools
 
-- Python(Tensorflow, Crwling, Pandas)
+- Python(Tensorflow, Crwling, Pandas, openCV)
 - Django
 - JavaScript
 - ReactNative
