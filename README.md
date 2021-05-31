@@ -20,3 +20,6 @@ Backend Engineer, Data Analyst
 - JavaScript
 - ReactNative
 - express.js
+- github
+- NginX
+- AWS
