@@ -17,9 +17,8 @@ Backend Engineer
 
 - Python(Tensorflow, Crwling, Pandas, openCV)
 - Django
-- JavaScript
+- JavaScript(node.js, express.js)
 - ReactNative
-- express.js
 - github
 - NginX
 - AWS
