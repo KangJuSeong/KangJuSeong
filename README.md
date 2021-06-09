@@ -23,3 +23,4 @@ Backend Engineer
 - github
 - NginX
 - AWS
+- SQL
