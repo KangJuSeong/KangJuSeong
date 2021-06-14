@@ -5,7 +5,7 @@ Backend Engineer
 🏆Prize  
 
 - 24th FIRA RoboWorld Cup Hurocup kid basketball second prize
-- 2019 International Competition of Acutonomous Running Intelligent Robots second prize  
+- 2019 International Competition of Autonomous Running Intelligent Robots second prize  
   👉🏻[Link](https://m.kookmin.ac.kr/comm/board/user/be8e117863cfd580d7ed5931a799207c/view.do?dataSeq=1069743)
 
 💻Project
