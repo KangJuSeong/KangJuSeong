@@ -15,7 +15,7 @@ Backend Engineer
 
 🔨Languages and Tools
 
-- Python(Tensorflow, Crwling, Pandas, openCV)
+- Python(Tensorflow, Crawling, Pandas, openCV)
 - Django
 - JavaScript(node.js, express.js)
 - ReactNative
