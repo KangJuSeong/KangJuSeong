@@ -1,6 +1,6 @@
 # 강주성 (KangJuSeong)  
 
-Backend Engineer   
+Junior Developer 
 
 🏆Prize  
 
