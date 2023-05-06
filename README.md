@@ -18,12 +18,25 @@ Junior Developer
 💻Project
 
 - **[Service Deployment]** AI ship Identification System _Backend_ (2020.12 ~ 2021.06)
+- **[Toy Project]** Book Management System _FullStack_
 
 🔨Languages and Tools
 
-- Python(Tensorflow, Pytorch, scikit-learn, Crawling, Pandas, openCV, Django)
-- git
-- NginX
-- AWS
-- SQL
-- Docker
+- Language
+  - Python
+  - Kotlin
+  - SQL
+
+- Backend
+  - Django, DRF
+  - SpringBoot3, JPA, JDSL
+  - MySQL, PostgreSQL
+  - Nginx
+
+- Cloud
+  - AWS EC2, S3, RDS, Lambda
+
+- Tool
+  - Git/Github
+  - Docker
+  - CodeDeploy
